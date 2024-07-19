@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/5eJhLwO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://imgur.com/a/0YsHLSP'>Video Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
